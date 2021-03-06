@@ -7,6 +7,17 @@ body, html{
 	font-size: 32;
 	position: absolute;
 	transform: translate(-50%, -50%);
-	top: 50%;
+	top: 22%;
+	left: 50%;
+	margin-left: 0px;
+	margin-right: -200px;
+	text-align: center;
+}
+#stih{
+	font-size: 32;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	top: 100%;
 	left: 50%;
 }
